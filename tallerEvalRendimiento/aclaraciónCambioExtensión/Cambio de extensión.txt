@@ -1,0 +1,1 @@
+Al ejecutar el código “lanza.pl”, que automatiza los algoritmos de multiplicación, los resultados que nos da son de tipo .dat. Para poderlos cambia a .csv fue necesario usar Pandas (librería de Python), que nos permitió cambiar la extensión, y así poder trabajar con los datos en una hoja de cálculo. El código usado fue "cambiarExtension.py".
